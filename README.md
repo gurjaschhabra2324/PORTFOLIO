@@ -1,9 +1,16 @@
-## GURJAS SINGH CHHABRA
+# GURJAS SINGH CHHABRA
+
+##Summary:
+[Project (A): Exploratory Data Analysis Using Principal Component Analysis](https://github.com/gurjaschhabra2324/PORTFOLIO/blob/main/Expploratory%20Data%20Analysis%20Using%20Principal%20Component%20Analysis/PCA%20for%20EDA.ipynb)
+[Project (B): Business Analysis Case Study](https://github.com/gurjaschhabra2324/PORTFOLIO/tree/main/Documentation%20and%20Business%20Analysis)
+
 
 
 ### [Project (A): Exploratory Data Analysis Using Principal Component Analysis](https://github.com/gurjaschhabra2324/PORTFOLIO/blob/main/Expploratory%20Data%20Analysis%20Using%20Principal%20Component%20Analysis/PCA%20for%20EDA.ipynb)
 
-Baisc data cleaning to deal with missing values using a KNN imputer with neighbours=5 followed by PCA. The idea is to trace the source of variance to the combination of variables using PCA loadings. And explore the combination of these variables with the intent of narrowing down the research. The following script is an excert from Jypter Notebook that generated the initial PCA output.  
+Baisc data cleaning to deal with missing values using a KNN imputer with neighbours=5 followed by PCA. The idea is to trace the source of variance to the combination of variables using PCA loadings. And explore the combination of these variables with the intent of narrowing down the research. 
+
+The following script is an excert from the Jypter Notebook that generated the initial PCA output.  
 
 ```markdown
 n_components = len(pca.explained_variance_ratio_)
@@ -17,6 +24,14 @@ df_explained_variance = pd.DataFrame([explained_variance, cum_explained_variance
 HEAT MAP: Variance (Using Colour) of orignal variables(Y axis) across Top four Principal components (X axis:1,2,3,4)
 
 ![](/images/015.JPG)
+
+
+### [Project (B): Business Analysis Case Study](https://github.com/gurjaschhabra2324/PORTFOLIO/tree/main/Documentation%20and%20Business%20Analysis)
+##[Process Decomposition](https://github.com/gurjaschhabra2324/PORTFOLIO/blob/main/Documentation%20and%20Business%20Analysis/(A.)%20PROCESS%20BREAKDOWN.pdf)
+##[Stakeholder Analysis](https://github.com/gurjaschhabra2324/PORTFOLIO/blob/main/Documentation%20and%20Business%20Analysis/(B.)STAKEHOLDER%20ANALYSIS.pdf)
+##[Problem Analysis](https://github.com/gurjaschhabra2324/PORTFOLIO/blob/main/Documentation%20and%20Business%20Analysis/(C.)OPTIMIZATION.pdf
+
+
 
 Syntax highlighted code block
 
