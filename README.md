@@ -60,31 +60,3 @@ An indepth discussion and analysis of the AS-IS process, stakeholder analysis (o
 ### [Project (D): Miscellaneous Data Scripts for cleaning data and Hypothesis Testing](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2Fgurjaschhabra2324%2FPORTFOLIO%2Fmain%2FExcel%2520and%2520Python%2FStochastic%2520Decision%2520Modelling.pptx&wdOrigin=BROWSELINK)
 
 A combination of Data wrangling using python and hypothesis testing using excel on different Datasets. To exhibit understanding of foundational skills in data analysis.
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/gurjaschhabra2324/PORTFOLIO/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
