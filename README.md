@@ -1,10 +1,9 @@
 ## GURJAS SINGH CHHABRA
 
 
-### Markdown
+### [Project (A): Exploratory Data Analysis Using Principal Component Analysis](https://github.com/gurjaschhabra2324/sit742)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
+Description of the proj
 ```markdown
 Syntax highlighted code block
 
