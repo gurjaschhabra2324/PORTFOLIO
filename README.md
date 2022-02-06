@@ -3,9 +3,9 @@
 
 ### [Project (A): Exploratory Data Analysis Using Principal Component Analysis](https://github.com/gurjaschhabra2324/PORTFOLIO/blob/main/Expploratory%20Data%20Analysis%20Using%20Principal%20Component%20Analysis/PCA%20for%20EDA.ipynb)
 
-Description of the proj
-```markdown
+Baisc data cleaning to deal with missing values using a KNN imputer with neighbours=5 followed by PCA. The idea is to trace the source of variance to the combination of variables using PCA loadings. And explore the combination of these variables with the intent of narrowing down the research. The following script is an excert from Jypter Notebook that generated the initial PCA output.  
 
+```markdown
 n_components = len(pca.explained_variance_ratio_)
 explained_variance = pca.explained_variance_ratio_
 cum_explained_variance = np.cumsum(explained_variance)
@@ -13,6 +13,9 @@ idx = np.arange(n_components)+1
 df_explained_variance = pd.DataFrame([explained_variance, cum_explained_variance], 
                                      index=['explained variance', 'cumulative'], 
                                      columns=idx).T
+```
+Distribution of variance (Colour) of orignal variables (Y axis) across Top four Principal components (X axis:1,2,3,4)
+
 Syntax highlighted code block
 
 # Header 1
@@ -29,9 +32,6 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
-
-```Test
-
 
 
 ```
