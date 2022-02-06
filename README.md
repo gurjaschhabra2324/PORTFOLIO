@@ -51,7 +51,14 @@ An indepth discussion and analysis of the AS-IS process, stakeholder analysis (o
 -Comparision of ML algorithms based on performance
 -Model Deployment and running models on unseen data
 
+
+
+
+
 ![](https://github.com/gurjaschhabra2324/PORTFOLIO/blob/main/images/spider%20graph.jpg)
+
+
+
 
 
 ![](https://github.com/gurjaschhabra2324/PORTFOLIO/blob/main/images/words%20freq.jpg)
