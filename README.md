@@ -40,7 +40,21 @@ HEAT MAP: Variance (Using Colour) of orignal variables(Y axis) across Top four P
 
 An indepth discussion and analysis of the AS-IS process, stakeholder analysis (on divisional level) and operational level inefficiencies (with possible solutions). The sensitive information of the organization has been redacted (an industry leader in the RCM industry based in U.S.A). The objective here was to study the status quo to reengineer the RCM process.
 
-### [Project (C): Performance of ML Models (RAPID MINER)](https://github.com/gurjaschhabra2324/PORTFOLIO/blob/main/ML%20RAPIDMINER/Machine%20Learning.pdf)
+### [Project (C): Food&Beverage Industry Consultancy using Zomato Dataset](https://github.com/gurjaschhabra2324/PORTFOLIO/blob/main/ML%20RAPIDMINER/Machine%20Learning.pdf)
+
+-Data exploration, machine learning and solution reccomendation using RapidMiner. Developed classification models to suggest restaurants what should be there customer satisfaction strategy going forward. 
+-Segmentation Analysis of restaurants using clustering and NLP.
+-Anamoly Detection
+-Comparision of model performance using CV   
+-Comparision of ML algorithms based on performance
+-Model Deployment and running models on unseen data
+______________________________________________________________________________________
+A glimpse into segmentation analysis of restaurants based on NLP of unstructured data (Reviews given by custoerms about restaurants):
+
+![](https://github.com/gurjaschhabra2324/PORTFOLIO/blob/main/images/spider%20graph.png)
+
+
+![](https://github.com/gurjaschhabra2324/PORTFOLIO/blob/main/images/words%20freq.png)
 
 
 # Header 1
