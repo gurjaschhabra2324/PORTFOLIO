@@ -51,6 +51,12 @@ An indepth discussion and analysis of the AS-IS process, stakeholder analysis (o
 -Comparision of ML algorithms based on performance
 -Model Deployment and running models on unseen data
 
+### [Project (D): Miscellaneous Data Scritps for cleaning data and Hypothesis Testing]()
+
+A combination of Data wrangling using python and hypothesis testing using excel on different Datasets. To exhibit understanding of foundational skills in data analysis.
+
+
+
 
 
 
