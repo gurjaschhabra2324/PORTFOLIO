@@ -51,10 +51,10 @@ An indepth discussion and analysis of the AS-IS process, stakeholder analysis (o
 ______________________________________________________________________________________
 A glimpse into segmentation analysis of restaurants based on NLP of unstructured data (Reviews given by custoerms about restaurants):
 
-![](https://github.com/gurjaschhabra2324/PORTFOLIO/blob/main/images/spider%20graph.png)
+![](/images/spider%20graph.png)
 
 
-![](https://github.com/gurjaschhabra2324/PORTFOLIO/blob/main/images/words%20freq.png)
+![](/images/words%20freq.png)
 
 
 # Header 1
