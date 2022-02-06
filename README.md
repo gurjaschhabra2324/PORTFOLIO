@@ -52,10 +52,10 @@ ________________________________________________________________________________
 
 A glimpse into segmentation analysis of restaurants based on NLP of unstructured data (Reviews given by custoerms about restaurants):
 
-![](/images/spider graph.png)
+![](https://github.com/gurjaschhabra2324/PORTFOLIO/blob/main/images/spider%20graph.jpg)
 
 
-![](/images/words freq.png)
+![](https://github.com/gurjaschhabra2324/PORTFOLIO/blob/main/images/words%20freq.jpg)
 
 
 
