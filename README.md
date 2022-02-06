@@ -40,7 +40,7 @@ HEAT MAP: Variance (Using Colour) of orignal variables(Y axis) across Top four P
 
 An indepth discussion and analysis of the AS-IS process, stakeholder analysis (on divisional level) and operational level inefficiencies (with possible solutions). The sensitive information of the organization has been redacted (an industry leader in the RCM industry based in U.S.A). The objective here was to study the status quo to reengineer the RCM process.
 
-### [Project (C): Performance of ML Models (RAPID MINER)](https://github.com/gurjaschhabra2324/PORTFOLIO/blob/main/ML%20RAPIDMINER/Report.pdf)
+### [Project (C): Performance of ML Models (RAPID MINER)](https://github.com/gurjaschhabra2324/PORTFOLIO/blob/main/ML%20RAPIDMINER/Machine%20Learning.pdf)
 
 
 # Header 1
