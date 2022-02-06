@@ -48,7 +48,8 @@ An indepth discussion and analysis of the AS-IS process, stakeholder analysis (o
 -Comparision of model performance using CV   
 -Comparision of ML algorithms based on performance
 -Model Deployment and running models on unseen data
-______________________________________________________________________________________
+_________________________________________________________________________________________________________________________________________________________
+
 A glimpse into segmentation analysis of restaurants based on NLP of unstructured data (Reviews given by custoerms about restaurants):
 
 ![](/images/spider%20graph.png)
