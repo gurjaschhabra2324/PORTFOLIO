@@ -1,7 +1,7 @@
 ## GURJAS SINGH CHHABRA
 
 
-### [Project (A): Exploratory Data Analysis Using Principal Component Analysis](https://github.com/gurjaschhabra2324/sit742)
+### [Project (A): Exploratory Data Analysis Using Principal Component Analysis](https://github.com/gurjaschhabra2324/PORTFOLIO/blob/main/Expploratory%20Data%20Analysis%20Using%20Principal%20Component%20Analysis/PCA%20for%20EDA.ipynb)
 
 Description of the proj
 ```markdown
