@@ -36,7 +36,7 @@ HEAT MAP: Variance (Using Colour) of orignal variables(Y axis) across Top four P
 
 -[Problem Analysis](https://github.com/gurjaschhabra2324/PORTFOLIO/blob/main/Documentation%20and%20Business%20Analysis/(C.)OPTIMIZATION.pdf)
 
-An indepth discussion and analysis of the AS-IS process, stakeholder analysis on divisional level and operational level inefficiencies with possible solutions. The sensitive information of the organization has been redacted. An industry leader in the RCM industry in United States of America. The objective here was to study the status quo for reengineering the RCM process.  
+An indepth discussion and analysis of the AS-IS process, stakeholder analysis (on divisional level) and operational level inefficiencies (with possible solutions). The sensitive information of the organization has been redacted (an industry leader in the RCM industry based in U.S.A). The objective here was to study the status quo to reengineer the RCM process.  
 
 
 # Header 1
