@@ -9,7 +9,7 @@ ________________________________________________________________________________
 
 
 
-## [Project (A): EDA Using PCA](https://github.com/gurjaschhabra2324/PORTFOLIO/blob/main/Expploratory%20Data%20Analysis%20Using%20Principal%20Component%20Analysis/PCA%20for%20EDA.ipynb)
+### [Project (A): EDA Using PCA](https://github.com/gurjaschhabra2324/PORTFOLIO/blob/main/Expploratory%20Data%20Analysis%20Using%20Principal%20Component%20Analysis/PCA%20for%20EDA.ipynb)
 
 Baisc data cleaning to deal with missing values using a KNN imputer with neighbours=5 followed by PCA. The idea is to trace the source of variance to the combination of variables using PCA loadings. And explore the combination of variables causing maximum variance with the intent of looking for narratives and narrowing down the research. 
 
@@ -29,7 +29,7 @@ HEAT MAP: Variance (Using Colour) of orignal variables(Y axis) across Top four P
 ![](/images/015.JPG)
 
 
-## [Project (B): Business Analysis Case Study](https://github.com/gurjaschhabra2324/PORTFOLIO/tree/main/Documentation%20and%20Business%20Analysis)
+### [Project (B): Business Analysis Case Study](https://github.com/gurjaschhabra2324/PORTFOLIO/tree/main/Documentation%20and%20Business%20Analysis)
 -[Process Decomposition](https://github.com/gurjaschhabra2324/PORTFOLIO/blob/main/Documentation%20and%20Business%20Analysis/(A.)%20PROCESS%20BREAKDOWN.pdf)
 
 -[Stakeholder Analysis](https://github.com/gurjaschhabra2324/PORTFOLIO/blob/main/Documentation%20and%20Business%20Analysis/(B.)STAKEHOLDER%20ANALYSIS.pdf)
