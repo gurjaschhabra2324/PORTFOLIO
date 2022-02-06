@@ -27,9 +27,9 @@ HEAT MAP: Variance (Using Colour) of orignal variables(Y axis) across Top four P
 
 
 ### [Project (B): Business Analysis Case Study](https://github.com/gurjaschhabra2324/PORTFOLIO/tree/main/Documentation%20and%20Business%20Analysis)
-## [Process Decomposition](https://github.com/gurjaschhabra2324/PORTFOLIO/blob/main/Documentation%20and%20Business%20Analysis/(A.)%20PROCESS%20BREAKDOWN.pdf)
-## [Stakeholder Analysis](https://github.com/gurjaschhabra2324/PORTFOLIO/blob/main/Documentation%20and%20Business%20Analysis/(B.)STAKEHOLDER%20ANALYSIS.pdf)
-## [Problem Analysis](https://github.com/gurjaschhabra2324/PORTFOLIO/blob/main/Documentation%20and%20Business%20Analysis/(C.)OPTIMIZATION.pdf
+-[Process Decomposition](https://github.com/gurjaschhabra2324/PORTFOLIO/blob/main/Documentation%20and%20Business%20Analysis/(A.)%20PROCESS%20BREAKDOWN.pdf)
+-[Stakeholder Analysis](https://github.com/gurjaschhabra2324/PORTFOLIO/blob/main/Documentation%20and%20Business%20Analysis/(B.)STAKEHOLDER%20ANALYSIS.pdf)
+-[Problem Analysis](https://github.com/gurjaschhabra2324/PORTFOLIO/blob/main/Documentation%20and%20Business%20Analysis/(C.)OPTIMIZATION.pdf)
 
 
 
