@@ -14,7 +14,8 @@ df_explained_variance = pd.DataFrame([explained_variance, cum_explained_variance
                                      index=['explained variance', 'cumulative'], 
                                      columns=idx).T
 ```
-Distribution of variance (Colour) of orignal variables (Y axis) across Top four Principal components (X axis:1,2,3,4)
+HEAT MAP: Variance (Using Colour) of orignal variables(Y axis) across Top four Principal components (X axis:1,2,3,4)
+![Image](https://github.com/gurjaschhabra2324/PORTFOLIO/blob/main/images/015.JPG)
 
 Syntax highlighted code block
 
