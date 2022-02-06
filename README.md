@@ -7,6 +7,8 @@
 
 [Project (C): Performance of ML Models (RAPID MINER)](https://github.com/gurjaschhabra2324/PORTFOLIO/blob/main/ML%20RAPIDMINER/Report.pdf)
 
+[Project (D): Miscellaneous Data Scritps for cleaning data and Hypothesis Testing](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2Fgurjaschhabra2324%2FPORTFOLIO%2Fmain%2FExcel%2520and%2520Python%2FStochastic%2520Decision%2520Modelling.pptx&wdOrigin=BROWSELINK)
+
 _________________________________________________________________________________________________________________________________________________________
 
 
@@ -51,25 +53,13 @@ An indepth discussion and analysis of the AS-IS process, stakeholder analysis (o
 -Comparision of ML algorithms based on performance
 -Model Deployment and running models on unseen data
 
-### [Project (D): Miscellaneous Data Scritps for cleaning data and Hypothesis Testing](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2Fgurjaschhabra2324%2FPORTFOLIO%2Fmain%2FExcel%2520and%2520Python%2FStochastic%2520Decision%2520Modelling.pptx&wdOrigin=BROWSELINK)
-
-A combination of Data wrangling using python and hypothesis testing using excel on different Datasets. To exhibit understanding of foundational skills in data analysis.
-
-
-
-
-
-
-
 ![](https://github.com/gurjaschhabra2324/PORTFOLIO/blob/main/images/spider%20graph.jpg)
-
-
-
-
-
 ![](https://github.com/gurjaschhabra2324/PORTFOLIO/blob/main/images/words%20freq.jpg)
 
 
+### [Project (D): Miscellaneous Data Scritps for cleaning data and Hypothesis Testing](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2Fgurjaschhabra2324%2FPORTFOLIO%2Fmain%2FExcel%2520and%2520Python%2FStochastic%2520Decision%2520Modelling.pptx&wdOrigin=BROWSELINK)
+
+A combination of Data wrangling using python and hypothesis testing using excel on different Datasets. To exhibit understanding of foundational skills in data analysis.
 
 # Header 1
 ## Header 2
