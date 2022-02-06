@@ -5,6 +5,14 @@
 
 Description of the proj
 ```markdown
+
+n_components = len(pca.explained_variance_ratio_)
+explained_variance = pca.explained_variance_ratio_
+cum_explained_variance = np.cumsum(explained_variance)
+idx = np.arange(n_components)+1
+df_explained_variance = pd.DataFrame([explained_variance, cum_explained_variance], 
+                                     index=['explained variance', 'cumulative'], 
+                                     columns=idx).T
 Syntax highlighted code block
 
 # Header 1
@@ -22,8 +30,7 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-```
-Test
+```Test
 
 
 
