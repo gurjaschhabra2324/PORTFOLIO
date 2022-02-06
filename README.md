@@ -11,7 +11,7 @@ ________________________________________________________________________________
 
 ## [Project (A): Exploratory Data Analysis Using Principal Component Analysis](https://github.com/gurjaschhabra2324/PORTFOLIO/blob/main/Expploratory%20Data%20Analysis%20Using%20Principal%20Component%20Analysis/PCA%20for%20EDA.ipynb)
 
-Baisc data cleaning to deal with missing values using a KNN imputer with neighbours=5 followed by PCA. The idea is to trace the source of variance to the combination of variables using PCA loadings. And explore the combination of these variables with the intent of narrowing down the research. 
+Baisc data cleaning to deal with missing values using a KNN imputer with neighbours=5 followed by PCA. The idea is to trace the source of variance to the combination of variables using PCA loadings. And explore the combination of variables causing maximum variance with the intent of looking for narratives and narrowing down the research. 
 
 The following script is an excert from the Jypter Notebook that generated the initial PCA output.  
 
