@@ -5,7 +5,7 @@
 
 [Project (B): Business Analysis Case Study](https://github.com/gurjaschhabra2324/PORTFOLIO/tree/main/Documentation%20and%20Business%20Analysis)
 
-[Project (C): Performance of ML Models (RAPID MINER)](https://github.com/gurjaschhabra2324/PORTFOLIO/blob/main/ML%20RAPIDMINER/Report.pdf)
+[Project (C): Performance of ML Models (RAPID MINER)](https://github.com/gurjaschhabra2324/PORTFOLIO/blob/main/ML%20RAPIDMINER/Machine%20Learning.pdf)
 
 [Project (D): Miscellaneous Data Scritps for cleaning data and Hypothesis Testing](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2Fgurjaschhabra2324%2FPORTFOLIO%2Fmain%2FExcel%2520and%2520Python%2FStochastic%2520Decision%2520Modelling.pptx&wdOrigin=BROWSELINK)
 
