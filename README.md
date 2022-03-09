@@ -1,5 +1,9 @@
 # GURJAS SINGH CHHABRA
 
+##Introduction:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZpKArwTGT2c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## Summary:
 [Project (A): Exploratory Data Analysis Using Principal Component Analysis](https://github.com/gurjaschhabra2324/PORTFOLIO/blob/main/Expploratory%20Data%20Analysis%20Using%20Principal%20Component%20Analysis/PCA%20for%20EDA.ipynb)
 
